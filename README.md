@@ -12,7 +12,8 @@ This Telegram bot is designed to assist researchers in processing their .ab1 fil
 
 <a name="How to use"></a> 
 **How_to_use**
-
+![image](https://github.com/VsevolodMisyurin/.ab1_telebot_opener/assets/111582251/b4d36e7f-0367-4885-be55-cba85e6e6901)
+By clicking on the link in the chat, press the 'Start' button.
 
 <a name="Installation"></a>
 **Installation**
