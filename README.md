@@ -60,7 +60,9 @@ You also need to install Telebot from https://pypi.org/project/pyTelegramBotAPI/
 After installation, download the necessary libraries using the following commands:
 
 pip install biopython
+
 pip install matplotlib
+
 pip install pandas
 
 Next, simply copy all the files from this repository into one folder on your computer. It's crucial that all files with the .py extension are in the same directory, as the main file ab1_viewer_bot.py looks for other files in the same directory where it's located.
