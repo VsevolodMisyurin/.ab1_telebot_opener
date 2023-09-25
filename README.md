@@ -11,17 +11,17 @@ This Telegram bot is designed to assist researchers in processing their .ab1 fil
 [Limitations](#Limitations)
 
 <a name="How to use"></a> 
-How_to_use
+**How_to_use**
 
 
 <a name="Installation"></a>
-Installation
+**Installation**
 
 
 <a name="Launching"></a>
-Launching
+**Launching**
 
 
 <a name="Limitations"></a>
-Limitations
+**Limitations**
 
