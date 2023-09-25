@@ -12,6 +12,7 @@ This Telegram bot is designed to assist researchers in processing their .ab1 fil
 
 <a name="How to use"></a> 
 **How_to_use**
+
 ![image](https://github.com/VsevolodMisyurin/.ab1_telebot_opener/assets/111582251/b4d36e7f-0367-4885-be55-cba85e6e6901)
 By clicking on the link in the chat, press the 'Start' button.
 
@@ -52,6 +53,7 @@ Upon closer inspection, numerous reading artifacts are visible, which is typical
 
 <a name="Installation"></a>
 **Installation**
+
 To work, you need to have Python installed, as well as the libraries telebot, biopython, matplotlib.pyplot, and pandas.
 You can install Python from here: https://www.python.org/downloads/. Install version 3.8, as the bot works stably with this version.
 You also need to install Telebot from https://pypi.org/project/pyTelegramBotAPI/. Install the latest version using the instructions on that page.
@@ -67,6 +69,7 @@ Don't forget to record the token number you received when creating the Telegram 
 
 <a name="Launching"></a>
 **Launching**
+
 ![image](https://github.com/VsevolodMisyurin/.ab1_telebot_opener/assets/111582251/b59c4172-c8e5-4fc7-b6ac-016f94c05770)
 For convenient execution, you can open the folder containing the bot's components. Right-click in the address bar to highlight the address, type "cmd," and the command prompt will open.
 After opening the command prompt, enter the following command:
@@ -76,4 +79,5 @@ Then open the Telegram bot in Telegram and proceed with the analysis!
 
 <a name="Limitations"></a>
 **Limitations**
+
 Unfortunately, the bot does not keep a file history and always works with the latest .ab1 file. When a new file is uploaded, the old file gets overwritten. It is not possible to have multiple users working simultaneously.
