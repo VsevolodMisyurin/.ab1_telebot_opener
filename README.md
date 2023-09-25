@@ -6,8 +6,22 @@ This Telegram bot is designed to assist researchers in processing their .ab1 fil
 
 [Installation](#Installation)
 
+[Launching](#Launching)
+
+[Limitations](#Limitations)
+
 <a name="How to use"></a> 
 How_to_use
 
+
 <a name="Installation"></a>
 Installation
+
+
+<a name="Launching"></a>
+Launching
+
+
+<a name="Limitations"></a>
+Limitations
+
