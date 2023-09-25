@@ -64,6 +64,7 @@ pip install matplotlib
 pip install pandas
 
 Next, simply copy all the files from this repository into one folder on your computer. It's crucial that all files with the .py extension are in the same directory, as the main file ab1_viewer_bot.py looks for other files in the same directory where it's located.
+Remove example.ab1 from folder.
 Don't forget to record the token number you received when creating the Telegram bot in the config.py file.
 
 
