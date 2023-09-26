@@ -74,7 +74,7 @@ Don't forget to record the token number you received when creating the Telegram 
 **Launching**
 
 ![image](https://github.com/VsevolodMisyurin/.ab1_telebot_opener/assets/111582251/b59c4172-c8e5-4fc7-b6ac-016f94c05770)
-For convenient execution, you can open the folder containing the bot's components. Right-click in the address bar to highlight the address, type "cmd," and the command prompt will open.
+For convenient execution, you can open the folder containing the bot's components. Right-click in the address bar to highlight the address, type "cmd," press "Enter" and the command prompt will open.
 After opening the command prompt, enter the following command:
 python ab1_viewer_bot.py
 Then open the Telegram bot in Telegram and proceed with the analysis!
